@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c38d5434-2d3e-4598-b6bd-cc63fcb909bb/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/jaskiratSquadAPI",
+    "appService.deploySubpath": "."
+}
