@@ -37,8 +37,8 @@ query: """
 
 #database insertion
 config = {
-    "endpoint": "https://jaskirat.documents.azure.com:443/",
-    "primarykey": "g334urugbdRVbOkQk3gIxjXa1YckVCHr9tQQO2bwrFzgxz2BS7zzVIgUHbmxBoiBHFsypYcoShYlDvM5cbQyAA=="
+    "endpoint": "",
+    "primarykey": ""
 }
 
 # Initialize the Cosmos client
